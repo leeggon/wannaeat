@@ -138,7 +138,7 @@
 |--------|--------|--------|
 | <img src="/readme/feature/공동주문및채팅.gif" width="250" />    | <img src="/readme/feature/주문결제및퇴실.gif" width="250" />      |   <img src="/readme/feature/예약관리및카드관리.gif" width="250" />      | 
 
-### 사업자 (웹)
+### 사업자 (모바일)
 
 <a id="서비스-아키텍쳐"></a>
 
